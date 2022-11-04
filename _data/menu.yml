@@ -6,6 +6,8 @@ entries:
     entries:
       - title: about
         url: about
+      - title: test
+        url: test
       - title: email
         url: mailto:joeyxworks@gmail.com
       - title: github
