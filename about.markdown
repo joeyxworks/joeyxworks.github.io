@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About This Joey Life
+title: About
 permalink: /about/
 ---
 
-## Hello! 
+## Hello world! 
 
 I am Joey, I have been a network engineer for more than 7 years. Engineer I think is one of the most interesting jobs in the world, engineers create the world in some sense, and I am proud to have been an engineer in my life. 
 
