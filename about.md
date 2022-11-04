@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About The Joey Life
 ---
 
 ## Hello world! 
