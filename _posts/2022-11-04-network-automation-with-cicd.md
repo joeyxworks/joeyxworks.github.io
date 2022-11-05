@@ -65,7 +65,7 @@ ssh-copy-id -i </path/to/your/public_key> <jenkins_user>@<target_agent_host>
 
 Another thing you should keep in mind about SSH connection is to set the default crypto policy to SHA1 because the version of Cisco ASA we are going to integrate is too low to make SSH connection from RHEL 7+. Click on the [link](https://access.redhat.com/solutions/6816771) for more information.
 
-![crypto_policy](https://res.cloudinary.com/dwcdud0zw/image/upload/v1667636047/Screen_Shot_2022-11-03_at_16.28.58_ldlcr8.png)
+![crypto_policy](https://res.cloudinary.com/dwcdud0zw/image/upload/v1667636047/Blog/2022-11-04/Screen_Shot_2022-11-03_at_16.28.58_ldlcr8.png)
 
 Use the following command to change the crypto policy. (You can ignore if you are using another Linux distributions)
 
@@ -106,7 +106,7 @@ The version of JDK we’ll use in Jenkins controller is **Java 11**, so we have 
 yum --showduplicates list java-11-openjdk
 ```
 
-![ssh_copy_id](https://res.cloudinary.com/dwcdud0zw/image/upload/v1667636046/Screen_Shot_2022-11-03_at_16_14_40-2_iitpsj.png)
+![java_jdk](https://res.cloudinary.com/dwcdud0zw/image/upload/v1667636046/Blog/2022-11-04/Screen_Shot_2022-11-03_at_16_14_40-2_iitpsj.png)
 
 Use the following commands to install and check if the JAVA JDK is successfully installed.
 
@@ -139,9 +139,9 @@ Some of the settings during the node registration you should take care of are `R
 - The first one should be filled with home directory of the user account which we created in previous section and will be used to execute the Ansible commands, such as ansible-playbook.
 - The value of the second one is the key you should fill in when you perform whatever  the commands or pipelines on Jenkins portal. Each node joined in should be configured with a unique label to precisely identify. For example, if I only want to execute a test pipeline in a test node, I should specify the label of that test node in the execution.
 
-![jenkins_portal_agent_1](https://res.cloudinary.com/dwcdud0zw/image/upload/v1667636054/Screen_Shot_2022-11-03_at_16_16_06-2_hfopp4.png)
+![jenkins_portal_agent_1](https://res.cloudinary.com/dwcdud0zw/image/upload/v1667636054/Blog/2022-11-04/Screen_Shot_2022-11-03_at_16_16_06-2_hfopp4.png)
 
-![jenkins_portal_agent_2](https://res.cloudinary.com/dwcdud0zw/image/upload/v1667636047/Screen_Shot_2022-11-03_at_16_16_16-2_ocbrhk.png)
+![jenkins_portal_agent_2](https://res.cloudinary.com/dwcdud0zw/image/upload/v1667636047/Blog/2022-11-04/Screen_Shot_2022-11-03_at_16_16_16-2_ocbrhk.png)
 
 After the agent node comes online, we can use Jenkins portal to complete the ACL creation task for us. In this case, we will write a Jenkins pipeline to arrange all the commands, configurations and variables together those we would like to ask the program to do instead of ad hoc commands in node’s shell.
 
