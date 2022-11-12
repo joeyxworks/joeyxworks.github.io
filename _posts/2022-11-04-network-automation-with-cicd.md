@@ -5,6 +5,20 @@ date:   2022-11-04 20:24:03 +0800
 categories: devnet ci/cd iac
 ---
 
+## Table of contents
+
+- [0x01 What is CI/CD and why?](#0x01-what-is-cicd-and-why)
+- [0x02 Getting Started](#0x02-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Versions](#versions)
+- [0x03 Stages](#0x03-stages)
+  - [Basic Setting@Jenkins Agent Node](#basic-settingjenkins-agent-node)
+  - [Integration Setting@Jenkins Agent Node](#integration-settingjenkins-agent-node)
+  - [Jenkins node integration@Jenkins Control Node](#jenkins-node-integrationjenkins-control-node)
+- [0x04 Commands and Pipeline](#0x04-commands-and-pipeline)
+
+
+
 ## 0x01 What is CI/CD and why?
 
 Before we dive deeper into CI/CD tools, we need to know CI/CD, what is CI/CD. According to the [definition](https://www.redhat.com/en/topics/devops/what-is-ci-cd) by RedHat, CI/CD is a method to frequently deliver apps to customers by introducing automation into the stages of app development.<!--more--> 
