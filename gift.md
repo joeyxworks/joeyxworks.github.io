@@ -12,6 +12,6 @@ This page aims to thank and showcase who or what as the life gift that have insp
 ## Books
 - [*Sapiens: A Brief History of Humankind*](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
 - [*Outliers: The Story of Success*](https://en.wikipedia.org/wiki/Outliers_(book))
-
+- [*Red Roulette: An Insider's Story of Wealth, Power, Corruption, and Vengeance in Today's China*](https://www.amazon.com/Red-Roulette-Insiders-Corruption-Vengeance-ebook/dp/B08VJP821L/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1690115103&sr=8-1)
 
 
