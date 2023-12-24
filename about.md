@@ -21,6 +21,6 @@ There are several topics I am interested in as an amateur for now:
 
 ALWAYS EXPLORING...
 
-Contact me at [joeyxworks@gmail.com](mailto:joeyxworks@gmail.com)
+Contact me at [me@chenjian.io](mailto:me@chenjian.io)
 
 [jekyll-organization]: https://github.com/jekyll

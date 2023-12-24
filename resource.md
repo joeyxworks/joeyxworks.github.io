@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gift
+title: Resource
 ---
 
-This page aims to thank and showcase who or what as the life gift that have inspired me personally and even influenced the way I think throughout my life.
+This page aims to thank and showcase who or what as the life treasures that have inspired me personally and even influenced the way I think throughout my life.
 
 ## YouTuber
 - [Jango Y](https://www.youtube.com/@jangoy5895)
