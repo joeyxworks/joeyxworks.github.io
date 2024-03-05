@@ -8,6 +8,10 @@ This page aims to thank and showcase who or what as the life treasures that have
 ## YouTuber
 - [Jango Y](https://www.youtube.com/@jangoy5895)
 - [MoneyXYZ](https://www.youtube.com/@MoneyXYZ)
+- [CS50](https://www.youtube.com/@cs50)
+
+## Online Course
+- [CS50x 2024](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&pp=iAQB)
 
 ## Books
 - [*Sapiens: A Brief History of Humankind*](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
